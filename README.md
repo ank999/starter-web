@@ -18,4 +18,4 @@ git.trainig
 copyright 
 
 how to cnjdbaksc?
-we are chaging here something
+we are chaging here something,moe changed from myfeature branch

@@ -18,3 +18,4 @@ git.trainig
 copyright 
 
 how to cnjdbaksc?
+we are chaging here something

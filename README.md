@@ -16,3 +16,5 @@ this is the second deployment
 
 git.trainig
 copyright 
+
+how to cnjdbaksc?

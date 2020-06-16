@@ -11,3 +11,8 @@ this wil be the deployment
 
 ## second  deployment
 this is the second deployment
+
+## Copyright 
+
+git.trainig
+copyright 

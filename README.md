@@ -18,4 +18,5 @@ git.trainig
 copyright 
 
 how to cnjdbaksc?
-we are chaging here something,moe changed from myfeature branch
+we are chaging here something,moe changed from myfeature branch.All rights reserverd
+
